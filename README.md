@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![anb](https://github.com/samik1234/rent-air-clone/assets/82882143/a3a743a1-0a5b-4b71-8111-c4d5daf8c5c4)
+![anb1](https://github.com/samik1234/rent-air-clone/assets/82882143/855cab16-2886-4798-968c-71a404e99499)
+
 
 
 
