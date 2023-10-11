@@ -2,7 +2,52 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![anb1](https://github.com/samik1234/rent-air-clone/assets/82882143/855cab16-2886-4798-968c-71a404e99499)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Setup .env file
+
+
+DATABASE_URL=
+
+GOOGLE_CLIENT_ID=
+
+GOOGLE_CLIENT_SECRET=
+
+GITHUB_ID=
+
+GITHUB_SECRET=
+
+NEXTAUTH_SECRET=
+
+
+
+
+
 
 
 
