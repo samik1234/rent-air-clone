@@ -29,6 +29,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
+
+
+
+
+
+This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
+
+
+
+
+
+
+
 Setup .env file
 
 
