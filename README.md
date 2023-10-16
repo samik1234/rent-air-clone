@@ -11,7 +11,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-BUILD YOUR OWN AIRBNB CLONE APPLICATION AND DEPLOY ON VERCEL 
+
+
+
+BUILD YOUR OWN AIRBNB CLONE APPLICATION AND DEPLOY ON VERCEL WITH THE NEXT JS
 
 
 
