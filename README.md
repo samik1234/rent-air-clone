@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
+![logo](https://github.com/samik1234/rent-air-clone/assets/82882143/e51e0ff7-262c-40c0-8f4a-055a36478c94)
 
 
 
