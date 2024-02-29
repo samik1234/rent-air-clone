@@ -6,14 +6,13 @@
 
 
 
-![logo](https://github.com/samik1234/rent-air-clone/assets/82882143/e51e0ff7-262c-40c0-8f4a-055a36478c94)
 
 
 
 
 
 
-
+##Project
 BUILD YOUR OWN AIRBNB CLONE APPLICATION WITH THE NEXT JS PRISMA MONGODB AND DEPLOY ON VERCEL
 
 
