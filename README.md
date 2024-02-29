@@ -42,6 +42,7 @@ BUILD YOUR OWN AIRBNB CLONE APPLICATION WITH THE NEXT JS PRISMA MONGODB AND DEPL
 
 
 
+## Information
 
 This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
 
@@ -51,7 +52,7 @@ This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: R
 
 
 
-Setup .env file
+## Setup .env file
 
 
 DATABASE_URL=
